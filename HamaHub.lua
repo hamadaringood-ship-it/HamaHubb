@@ -2460,16 +2460,16 @@ local AUTO1_TRIGGER = Vector3.new(-466.43,-7.89,6.55)
 local AUTO2_TRIGGER = Vector3.new(-466.51,-7.81,113.79)
 
 -- POSIÇÕES AUTO PLAY 1
-local A1 = Vector3.new(-472.59,-7.30,94.43)
-local A2 = Vector3.new(-484.55,-5.33,95.05)
-local A3 = Vector3.new(-472.59,-7.30,94.43)
-local A4 = Vector3.new(-471.25,-6.83,7.08)
+local A1 = Vector3.new(-473.04,-6.99,29.71)
+local A2 = Vector3.new(-483.57,-5.10,18.74)
+local A3 = Vector3.new(-475.00,-6.99,26.43)
+local A4 = Vector3.new(-474.67,-6.94,105.48)
 
 -- POSIÇÕES AUTO PLAY 2
-local B1 = Vector3.new(-474.02,-7.30,25.55)
-local B2 = Vector3.new(-484.92,-5.13,24.53)
-local B3 = Vector3.new(-474.02,-7.30,25.55)
-local B4 = Vector3.new(-470.93,-6.83,113.38)
+local B1 = Vector3.new(-472.49,-7.00,90.62)
+local B2 = Vector3.new(-484.62,-5.10,100.37)
+local B3 = Vector3.new(-475.08,-7.00,93.29)
+local B4 = Vector3.new(-474.22,-6.96,16.18)
 
 local mode = nil
 
